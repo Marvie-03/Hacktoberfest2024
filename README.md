@@ -6,9 +6,9 @@ You can check the label of this Repo by going to: Pull Requests -> Labels
 
 What can I contribute?
 
--A list of awesome beginner-friendly animations.
--Creative & simple landing pages.
 -DSA codes in any language.
+
+-React for Beginners
 
 Create a separate directory for each contribution.
 ## Contribution Instructions
